@@ -1,0 +1,6 @@
+.content {
+    display: grid;
+    grid-template-columns: minmax(min-content, 880px);
+    margin: 0 auto 0 auto;
+    align-items: center;
+}
